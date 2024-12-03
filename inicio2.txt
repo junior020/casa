@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <title>Repuestos CasMart</title>
+    <link rel="icon" href="imagenes/maquina.jpg">
+</head>
+<body>
+    <header>
+		<h3>Repuestos CasMart</h3>
+		<figure>
+			<img src="imagenes/menu.jpg" alt="Menú" windht="20" height="25">
+			<img src="imagenes/iniciar sesion.png" alt="iniciar_sesion" windht="20" height="25"> 
+			<img src="imagenes/lupa.png" alt="Buscar Articulo" windht="20" height="25">
+		</figure>
+		<p>Inicio</p>
+	</header>
+	<main>
+		<figure>
+			<img src="imagenes/bataria.png" alt="Baterias de 12V"  width="100" height="90" title="Baterias de 12V">
+			<figcaption>Baterias de 12V</figcaption>
+			<img src="imagenes/farotrasero.jpg" alt="Faros Traseros"  width="100" height="90" title="Frenos Traseros">
+			<figcaption>Faros Traseros</figcaption>
+			<img src="imagenes/embrague.png" alt="Kit de Embrague"  width="100" height="90" title="Kit de Embrague">
+			<figcaption>Kit de Embrague</figcaption>
+			<img src="imagenes/farodelantero.jpg" alt="Faros Delanteros"  width="100" height="90" title="Frenos Delanteros">
+			<figcaption>Faros Delanteros</figcaption>
+		</figure>
+		<a href="inicio.html">Atras</a>
+	</main>
+</body>
+</html>
